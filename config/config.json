@@ -1,0 +1,14 @@
+[
+    {
+        "url":"hekai.online",
+        "user_name":"azureuser",
+        "private_key_path":"key/azure-kai.pem",
+        "remote_file_path":"/usr/local/x-ui/bin/config.json"
+    },
+    {
+        "url":"proxy.hekai.online",
+        "user_name":"azureuser",
+        "private_key_path":"key/azure_Key.pem",
+        "remote_file_path":"/usr/local/x-ui/bin/config.json"
+    }
+]
